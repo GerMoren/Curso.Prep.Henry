@@ -1,0 +1,7 @@
+Variables: una variable es un espacion emmemroria que utiliza javascript apra almacenar datos.
+Puede inicializarse una variable con las palabras reservadas: let, const o var.
+
+Strings: es una cadena de texto, puede estar escrita dentro de comillas dobles "Ejemplo", simples 'Ejemplo'
+o lo que llamamos stings literal o bacticks ´Ejemplo´
+
+Funciones: una funcion es 
